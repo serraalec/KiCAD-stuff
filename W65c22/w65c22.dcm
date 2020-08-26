@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W65C22
+D Versatile Interface Adapter for W65C02S
+F https://www.westerndesigncenter.com/wdc/documentation/w65C22.pdf
+$ENDCMP
+#
+#End Doc Library
