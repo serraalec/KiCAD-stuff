@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP W65C02S
+D 8-bit, 6502 CPU, 5V, 14 MHz, DIP-40
+F https://www.westerndesigncenter.com/wdc/documentation/w65c02s.pdf
+$ENDCMP
+#
+#End Doc Library
